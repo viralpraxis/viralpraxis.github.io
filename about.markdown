@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: "About me"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Here I'm going to publish some stuff (mostly related to CS, mathematics and software engineering)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm currently working towards a master's degree in computer science and mathematics at Saint-Petersburg State University. Also working for some years as a ruby backend engineer.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My primary areas of interest are
+- distributed systems
+- highload systems
+- system design
